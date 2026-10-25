@@ -79,8 +79,8 @@ I build reliable, scalable, and maintainable backend systems. I care about clean
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maj-jinnah&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maj-jinnah&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maj-jinnah&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maj-jinnah&layout=compact&hide_border=true&theme=radical" alt="Top languages" />
 </p>
 
 ---
