@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Mohammad Ali Jinnah 👋
 
-### Backend Engineer | API Design | Distributed Systems | Cloud & DevOps
+### Backend-Focused Full-Stack Developer | Distributed Systems | Cloud & DevOps
 
 I build reliable, scalable, and maintainable backend systems. I care about clean architecture, well-designed APIs, observability, and shipping code that holds up in production.
 
